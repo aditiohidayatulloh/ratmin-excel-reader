@@ -1,4 +1,4 @@
-module ratmin-excel-reader-utlity
+module ratmin-excel-reader
 
 go 1.25.3
 
