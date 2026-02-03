@@ -1,4 +1,4 @@
-module ratmin-excel-reader
+module github.com/aditiohidayatulloh/ratmin-excel-reader
 
 go 1.25.3
 
